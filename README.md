@@ -1,5 +1,6 @@
 # Project-06
 There are rats in the house!! oh no. You must get rid of the rats!
+WASD to move, space to jump. F to talk to the man and R to shoot.
 # Features added
 * Added sound effects and background music.
 * Added a start screen
